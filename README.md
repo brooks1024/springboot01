@@ -1,2 +1,2 @@
 # springboot01
-java project
+一个最小的springboot项目
